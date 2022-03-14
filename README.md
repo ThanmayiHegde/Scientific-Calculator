@@ -1,6 +1,6 @@
 # Scientific-Calculator
 This project developes a calculator that performs arithmetic and scientific operation.
-# Indtrduction
+# Introduction
  Scientific calculator is a calculator designed to help you calculate science, engineering, and mathematics problems.
  It has way that lets you do your four basic arithmetic operations of addition, subtraction, multiplication,  division and also  scientific operations.
  # Resource

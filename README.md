@@ -8,4 +8,4 @@ This project developes a calculator that performs arithmetic and scientific oper
  Coded using C Programming Language.
  Additional functionaliy that provides all the roots of a Quadratic equation.
  # Prerequisites
-Knowlede in C Programming Language and funtion types in it.
+Knowledge in C Programming Language and handling various funtion types in it.
